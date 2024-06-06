@@ -11,13 +11,7 @@ class Solution {
             for(int i = 0; i < nums.size() - 1; i++){
                 // compute dif
                 dif = nums[i] - nums[i+1];
-                if(dif < 0 && pol > 0){
-                    // swap
-                    int temp = nums[i];
-                    nums[i] = nums[i+1];
-                    nums[i+1] = temp;
-                }
-                else if(dif > 0 && pol < 0) {
+                if((dif < 0 && pol > 0) || (dif > 0 && pol < 0)){
                     // swap
                     int temp = nums[i];
                     nums[i] = nums[i+1];
