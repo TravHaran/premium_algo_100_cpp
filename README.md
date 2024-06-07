@@ -5,4 +5,6 @@
 - [x] 1056. Confusing Number
 - [x] 1427. Perform String Shifts
 - [x] 161. One Edit Distance
-- [ ] 186. Reverse Words in a String II
+- [x] 186. Reverse Words in a String II
+- [ ] 1055. Shortest Way to Form String
+
