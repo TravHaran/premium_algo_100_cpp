@@ -2,6 +2,8 @@
 using namespace std;
 
 class Solution {
+    // Time: O(N), where N is length of shortest string
+    // Space: O(N) where N is size of merged string
 public:
     string mergeAlternately(string word1, string word2) {
         // identify shorter string
