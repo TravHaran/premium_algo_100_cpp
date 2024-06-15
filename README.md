@@ -6,5 +6,5 @@
 - [x] 1427. Perform String Shifts
 - [x] 161. One Edit Distance
 - [x] 186. Reverse Words in a String II
-- [ ] 1055. Shortest Way to Form String
+- [x] 1786. Merge Strings Alternatively
 
