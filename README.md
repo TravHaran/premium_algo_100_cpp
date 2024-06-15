@@ -1,4 +1,4 @@
-# premium_algo_100_cpp
+# algo_cpp
 
 - [x] 624. Maximum Distance in Arrays
 - [x] 280. Wiggle Sort
