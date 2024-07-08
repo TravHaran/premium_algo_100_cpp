@@ -7,4 +7,5 @@
 - [x] 161. One Edit Distance
 - [x] 186. Reverse Words in a String II
 - [x] 1786. Merge Strings Alternatively
+- [x] 1055. Shortest Way to Form String
 
