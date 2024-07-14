@@ -7,10 +7,8 @@ class Solution {
 public:
     int lengthOfLongestSubstringTwoDistinct(string s) {
         if(s.size() < 2) return s.size();
-        int p1 = 0;
-        int p2 = 0;
+        int p1 = 0, p2 = 0;
         int maxsize = INT32_MIN;
-        int curr_size;
         unordered_map<char, int> unique;
         while(p2 < s.size()){
             if(unique.count(s[p2]) || unique.size()<2){
@@ -25,3 +23,4 @@ public:
         return maxsize;
     }
 };
+
