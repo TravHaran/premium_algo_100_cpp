@@ -13,3 +13,4 @@
 - [x] 159. Longest Substring with At Most Two Distinct Characters
 - [x] 340. Longest Substring with At Most K Distinct Characters
 - [x] 487. Max Consecutive Ones II
+- [x] 1100. Find K-Length Substrings With No Repeated Characters
