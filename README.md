@@ -1,5 +1,6 @@
 # algo_cpp
 
+### array/string
 - [x] 624. Maximum Distance in Arrays
 - [x] 280. Wiggle Sort
 - [x] 1056. Confusing Number
@@ -8,4 +9,5 @@
 - [x] 186. Reverse Words in a String II
 - [x] 1786. Merge Strings Alternatively
 - [x] 1055. Shortest Way to Form String
-
+### sliding window
+- [x] 159. Longest Substring with At Most Two Distinct Characters
