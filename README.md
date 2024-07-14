@@ -12,3 +12,4 @@
 ### sliding window
 - [x] 159. Longest Substring with At Most Two Distinct Characters
 - [x] 340. Longest Substring with At Most K Distinct Characters
+- [x] 487. Max Consecutive Ones II
