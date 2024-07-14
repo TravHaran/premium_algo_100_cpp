@@ -11,3 +11,4 @@
 - [x] 1055. Shortest Way to Form String
 ### sliding window
 - [x] 159. Longest Substring with At Most Two Distinct Characters
+- [x] 340. Longest Substring with At Most K Distinct Characters
