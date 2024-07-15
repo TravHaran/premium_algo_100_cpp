@@ -16,3 +16,4 @@
 - [x] 1100. Find K-Length Substrings With No Repeated Characters
 ### hashing
 - [x] 760. Find Anagram Mappings
+- [x] 266. Palindrome Permutation
