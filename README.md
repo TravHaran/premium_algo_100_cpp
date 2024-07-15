@@ -18,3 +18,4 @@
 - [x] 760. Find Anagram Mappings
 - [x] 266. Palindrome Permutation
 - [x] 734. Sentence Similarity
+- [x] 1165. Single-Row Keyboard
