@@ -22,3 +22,4 @@
 - [x] 249. Group Shifted Strings
 - [x] 1133. Largest Unique Number
 - [x] 1426. Counting Elements
+- [x] 1198. Find Smallest Common Element in All Rows
