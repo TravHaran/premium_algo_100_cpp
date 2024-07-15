@@ -21,3 +21,4 @@
 - [x] 1165. Single-Row Keyboard
 - [x] 249. Group Shifted Strings
 - [x] 1133. Largest Unique Number
+- [x] 1426. Counting Elements
