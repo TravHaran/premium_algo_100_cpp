@@ -26,3 +26,4 @@
 ### matrix
 - [x] 422. Valid Word Square
 - [x] 531. Lonely Pixel I
+- [x] 311. Sparse Matrix Multiplication
