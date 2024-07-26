@@ -25,3 +25,4 @@
 - [x] 1198. Find Smallest Common Element in All Rows
 ### matrix
 - [x] 422. Valid Word Square
+- [x] 531. Lonely Pixel I
