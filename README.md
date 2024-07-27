@@ -30,3 +30,4 @@
 - [ ] 723. Candy Crush
 ### intervals
 - [x] 163. Missing Ranges
+- [x] 252. Meeting Rooms
