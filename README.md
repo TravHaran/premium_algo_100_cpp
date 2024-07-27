@@ -27,3 +27,6 @@
 - [x] 422. Valid Word Square
 - [x] 531. Lonely Pixel I
 - [x] 311. Sparse Matrix Multiplication
+- [] 723. Candy Crush
+### intervals
+- [x] 163. Missing Ranges
