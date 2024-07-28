@@ -36,3 +36,4 @@
 - [x] 1272. Remove Interval
 ### stack
 - [x] 439. Ternary Expression Parser
+- [x] 484. Find Permutation
