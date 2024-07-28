@@ -37,3 +37,6 @@
 ### stack
 - [x] 439. Ternary Expression Parser
 - [x] 484. Find Permutation
+- [ ] 772. Basic Calculator III
+### queue
+- [x] 346. Moving Average from Data Stream
