@@ -41,3 +41,5 @@
 ### queue
 - [x] 346. Moving Average from Data Stream
 - [x] 1429. First Unique Number
+### linkedlist
+- [x] 1474. Delete N Nodes After M Nodes of a Linked List
