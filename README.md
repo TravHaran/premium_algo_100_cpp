@@ -41,8 +41,10 @@
 ### queue
 - [x] 346. Moving Average from Data Stream
 - [x] 1429. First Unique Number
-### linkedlist
+### linked list
 - [x] 1474. Delete N Nodes After M Nodes of a Linked List
 - [x] 708. Insert into a Sorted Circular Linked List
 - [x] 369. Plus One Linked List
 - [x] 1265. Print Immutable Linked List in Reverse
+### binary tree
+- [x] 298. Binary Tree Longest Consecutive Sequence
