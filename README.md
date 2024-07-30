@@ -43,3 +43,4 @@
 - [x] 1429. First Unique Number
 ### linkedlist
 - [x] 1474. Delete N Nodes After M Nodes of a Linked List
+- [x] 708. Insert into a Sorted Circular Linked List
