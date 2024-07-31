@@ -64,4 +64,6 @@
 - [x] 277. Find the Celebrity
 - [x] 582. Kill Process
 - [x] 323. Number of Connected Components in an Undirected Graph
+### graph bfs
+- [x] 490. The Maze
 
