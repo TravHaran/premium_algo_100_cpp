@@ -62,4 +62,5 @@
 - [ ] 333. Largest BST Subtree
 ### graph general
 - [x] 277. Find the Celebrity
+- [x] 582. Kill Process
 
