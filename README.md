@@ -68,4 +68,5 @@
 - [x] 490. The Maze
 ### binary search
 - [x] 1228. Missing Number In Arithmetic Progression
+- [x] 1060. Missing Element in Sorted Array
 
