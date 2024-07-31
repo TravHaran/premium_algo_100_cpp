@@ -48,3 +48,4 @@
 - [x] 1265. Print Immutable Linked List in Reverse
 ### binary tree
 - [x] 298. Binary Tree Longest Consecutive Sequence
+- [x] 549. Binary Tree Longest Consecutive Sequence II
