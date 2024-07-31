@@ -54,4 +54,6 @@
 - [x] 545. Boundary of Binary Tree
 - [x] 366. Find Leaves of Binary Tree
 - [x] 314. Binary Tree Vertical Order Traversal
+### binary search tree
+- [x] 270. Closest Binary Search Tree Value
 
