@@ -49,3 +49,4 @@
 ### binary tree
 - [x] 298. Binary Tree Longest Consecutive Sequence
 - [x] 549. Binary Tree Longest Consecutive Sequence II
+- [x] 250. Count Univalue Subtrees
