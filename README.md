@@ -51,3 +51,5 @@
 - [x] 549. Binary Tree Longest Consecutive Sequence II
 - [x] 250. Count Univalue Subtrees
 - [x] 1120. Maximum Average Subtree
+- [x] 545. Boundary of Binary Tree
+
