@@ -53,4 +53,5 @@
 - [x] 1120. Maximum Average Subtree
 - [x] 545. Boundary of Binary Tree
 - [x] 366. Find Leaves of Binary Tree
+- [x] 314. Binary Tree Vertical Order Traversal
 
