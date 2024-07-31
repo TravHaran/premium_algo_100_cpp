@@ -66,4 +66,6 @@
 - [x] 323. Number of Connected Components in an Undirected Graph
 ### graph bfs
 - [x] 490. The Maze
+### binary search
+- [x] 1228. Missing Number In Arithmetic Progression
 
