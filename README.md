@@ -59,7 +59,11 @@
 - [x] 272. Closest Binary Search Tree Value II
 - [x] 255. Verify Preorder Sequence in Binary Search Tree
 - [x] 1214. Two Sum BSTs
-- [ ] 333. Largest BST Subtree
+- [x] 333. Largest BST Subtree
+### n-ary tree
+- [x] 1490. Clone N-ary Tree
+- [x] 1506. Find Root of N-Ary Tree
+- [x] 1522. Diameter of N-Ary Tree
 ### graph general
 - [x] 277. Find the Celebrity
 - [x] 582. Kill Process
