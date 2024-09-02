@@ -71,6 +71,7 @@
 - [x] 1059. All Paths from Source Lead to Destination
 - [x] 1236. Web Crawler
 - [x] 694. Number of Distinct Islands
+- [x] 1136. Parallel Courses
 ### graph bfs
 - [x] 490. The Maze
 ### binary search
