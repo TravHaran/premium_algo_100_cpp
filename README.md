@@ -69,6 +69,7 @@
 - [x] 582. Kill Process
 - [x] 323. Number of Connected Components in an Undirected Graph
 - [x] 1059. All Paths from Source Lead to Destination
+- [x] 1236. Web Crawler
 ### graph bfs
 - [x] 490. The Maze
 ### binary search
