@@ -75,6 +75,7 @@
 ### graph bfs
 - [x] 490. The Maze
 - [x] 1197. Minimum Knight Moves
+- [x] 286. Walls and Gates
 ### binary search
 - [x] 1228. Missing Number In Arithmetic Progression
 - [x] 1060. Missing Element in Sorted Array
