@@ -76,6 +76,10 @@
 - [x] 490. The Maze
 - [x] 1197. Minimum Knight Moves
 - [x] 286. Walls and Gates
+- [x] 317. Shortest Distance from All Buildings
+### heap
+- [x] 1086. High Five
+- [x] 1167. Minimum Cost to Connect Sticks
 ### binary search
 - [x] 1228. Missing Number In Arithmetic Progression
 - [x] 1060. Missing Element in Sorted Array
