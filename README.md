@@ -81,7 +81,10 @@
 - [x] 1086. High Five
 - [x] 1167. Minimum Cost to Connect Sticks
 - [x] 1057. Campus Bikes
+- [x] 358. Rearrange String k Distance Apart
 ### binary search
 - [x] 1228. Missing Number In Arithmetic Progression
 - [x] 1060. Missing Element in Sorted Array
+- [x] 1533. Find the Index of the Large Integer
+- [x] 1150. Check If a Number Is Majority Element in a Sorted Array
 
