@@ -80,6 +80,7 @@
 ### heap
 - [x] 1086. High Five
 - [x] 1167. Minimum Cost to Connect Sticks
+- [x] 1057. Campus Bikes
 ### binary search
 - [x] 1228. Missing Number In Arithmetic Progression
 - [x] 1060. Missing Element in Sorted Array
