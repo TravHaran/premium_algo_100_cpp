@@ -87,4 +87,12 @@
 - [x] 1060. Missing Element in Sorted Array
 - [x] 1533. Find the Index of the Large Integer
 - [x] 1150. Check If a Number Is Majority Element in a Sorted Array
+### design
+- [x] 348. Design Tic-Tac-Toe
+### random
+- [x] 645. Set Mismatch
+- [x] 628. Maximum Product of Three Numbers
+- [x] 630. Course Schedule III
+- [x] 3019. Number of Changing Keys
+- [x] 3016. Minimum Number of Pushes to Type Word II
 
