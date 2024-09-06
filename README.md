@@ -89,6 +89,8 @@
 - [x] 1150. Check If a Number Is Majority Element in a Sorted Array
 ### design
 - [x] 348. Design Tic-Tac-Toe
+- [x] 353. Design Snake Game
+- [x] 604. Design Compressed String Iterator
 ### random
 - [x] 645. Set Mismatch
 - [x] 628. Maximum Product of Three Numbers
