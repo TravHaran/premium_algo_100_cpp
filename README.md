@@ -91,10 +91,12 @@
 - [x] 348. Design Tic-Tac-Toe
 - [x] 353. Design Snake Game
 - [x] 604. Design Compressed String Iterator
+- [x] 271. Encode and Decode Strings
 ### random
 - [x] 645. Set Mismatch
 - [x] 628. Maximum Product of Three Numbers
 - [x] 630. Course Schedule III
 - [x] 3019. Number of Changing Keys
 - [x] 3016. Minimum Number of Pushes to Type Word II
+- [x] 144. Binary Tree Preorder Traversal
 
