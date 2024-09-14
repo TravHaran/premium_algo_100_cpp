@@ -100,6 +100,9 @@
 ### backtracking
 - [x] 247. Strobogrammatic Number II
 - [x] 1087. Brace Expansion
+### math
+- [x] 1134. Armstrong Number
+- [x] 1180. Count Substrings with Only One Distinct Letter
 ### random
 - [x] 645. Set Mismatch
 - [x] 628. Maximum Product of Three Numbers
