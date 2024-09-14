@@ -92,6 +92,14 @@
 - [x] 353. Design Snake Game
 - [x] 604. Design Compressed String Iterator
 - [x] 271. Encode and Decode Strings
+- [x] 281. Zigzag Iterator
+- [x] 716. Max Stack
+- [x] 1244. Design A Leaderboard 
+- [x] 428. Serialize and Deserialize N-ary Tree
+- [x] 431. Encode N-ary Tree to Binary Tree
+### backtracking
+- [x] 247. Strobogrammatic Number II
+- [x] 1087. Brace Expansion
 ### random
 - [x] 645. Set Mismatch
 - [x] 628. Maximum Product of Three Numbers
@@ -99,4 +107,7 @@
 - [x] 3019. Number of Changing Keys
 - [x] 3016. Minimum Number of Pushes to Type Word II
 - [x] 144. Binary Tree Preorder Traversal
+- [x] 246. Strobogrammatic Number
+
+
 
