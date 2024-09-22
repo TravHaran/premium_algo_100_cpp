@@ -99,10 +99,17 @@
 - [x] 431. Encode N-ary Tree to Binary Tree
 ### backtracking
 - [x] 247. Strobogrammatic Number II
+- [x] 254. Factor Combinations
 - [x] 1087. Brace Expansion
+### dynamic programming
+- [x] 276. Paint Fence
+- [x] 256. Paint House
+- [x] 265. Paint House II
+- [x] 651. 4 Keys Keyboard
 ### math
 - [x] 1134. Armstrong Number
 - [x] 1180. Count Substrings with Only One Distinct Letter
+- [x] 1538. Guess the Majority in a Hidden Array
 ### random
 - [x] 645. Set Mismatch
 - [x] 628. Maximum Product of Three Numbers
@@ -111,6 +118,9 @@
 - [x] 3016. Minimum Number of Pushes to Type Word II
 - [x] 144. Binary Tree Preorder Traversal
 - [x] 246. Strobogrammatic Number
+- [x] 1200. Minimum Absolute Difference
+- [x] 3131. Find the Integer Added to Array I
+- [x] 1161. Maximum Level Sum of a Binary Tree
 
 
 
