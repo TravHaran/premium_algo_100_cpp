@@ -1,0 +1,817 @@
+Leetcode Top 150 Expansion
+
+- merge sorted array
+    - merge two sorted lists
+    - squares of a sorted array
+    - interval list intersections
+    - take k of each character from left and right
+
+- remove element
+    - remove duplicates from sorted array 
+    - remove linked list elements
+    - move zeroes
+
+- remove duplicates from sorted array
+    - remove element
+    - remove duplicates from sorted array II 
+    - apply operations to an array 
+    - sum of distances
+
+- remove duplicates from sorted array II 
+    - remove duplicates from sorted array 
+
+- majority element
+    - majority element II 
+    - check if a number is majority element in a sorted array 
+    - most frequent even element
+    - minimum index of a valid split
+    - minimum operations to exceed threshold value I 
+
+- rotate array
+    - rotate list 
+    - reverse words in a string II
+    - make k-subarray sums equal
+
+- best time to buy and sell stock
+    - maximum subarray
+    - best time to buy and sell stock II
+    - best time to buy and sell stock III
+    - best time to buy and sell stock IV 
+    - best time to buy and sell stock with cooldown
+    - sum of beauty in the array 
+    - maximum difference between increasing elements 
+    - maximum profit from trading stocks
+
+- best time to buy and sell stock II 
+    - best time to buy and sell stock with transaction fee 
+
+- jump game
+    - jump game II 
+    - jump game III 
+    - jump game VII 
+    - jump game VIII
+    - minimum number of visited cells in a grid
+    - largest element in an array after merge operations 
+
+- jump game II 
+    - maximum number of jumps to reach the last index 
+    - visit array positions to maximize score
+
+- h-index 
+    - h-index II 
+
+- insert delete getrandom O(1)
+    - insert delete getrandom O(1) - duplicates allowed
+
+- product of array except self
+    - trapping rain water
+    - maximum product subarray 
+    - paint house II 
+    - minimum difference in sums after removal of elements 
+    - construct product matrix
+
+- gas station 
+    - maximize the topmost element after k moves
+
+- candy 
+    - minimize maximum value in a grid 
+    - minimum number of operations to satisfy conditions 
+    - check if grid satisfies conditions
+
+- trapping rain water 
+    - container with most water 
+    - product of array except self 
+    - trapping rainwater II 
+    - pour water 
+    - maximum value of an ordered triplet II 
+
+- roman to integer
+    - integer to roman 
+
+- integer to roman 
+    - integer to english words 
+
+- length of last word 
+
+- longest common prefix
+    - smallest missing integer greater than sequential prefix sum 
+    - find the length of the longest common prefix 
+    - longest common suffix queries 
+
+- reverse words in a string 
+    - reverse words in a string II 
+
+- zigzag conversion 
+
+- find the index of the first occurrence in a string 
+    - shortest palindrome 
+    - repeated substring pattern 
+
+- text justification 
+    - rearrange spaces between words 
+    - divide a string into groups of size k
+    - split message based on limit
+
+- valid palindrome 
+    - palindrome linked list 
+    - valid palindrome II 
+    - maximum product of the length of two palindromic subsequences
+    - find first palindromic string in the array 
+    - valid palindrome IV 
+    - maximum palindromes after operations 
+
+- is subsequence 
+    - number of matching subsequences 
+    - shortest way to form string 
+    - append characters to string to make subsequence 
+    - make string a subsequence using cyclic increments
+
+- two sum II - input array is sorted 
+    - two sum 
+    - two sum IV - input is a bst 
+    - two sum less than k
+
+- container with most water 
+    - trapping rainwater 
+    - maximum tastiness of candy basket
+    - house robber IV 
+
+- 3 sum 
+    - 3 sum closest
+    - 4 sum 
+    - 3 sum smaller 
+    - number of arithmetic triplets
+    - minimum sum of mountain triplets I 
+    - minimum sum of mountain triplets II 
+
+- minimum size subarray sum
+    - minimum window substring 
+    - maximum size subarray sum equals k
+    - maximum length of repeated subarray 
+    - minimum operations to reduce x to zero 
+    - k radius subarray averages
+    - maximum product after k increments 
+    - shortest subarray with or at least k I 
+
+- longest substring without repeating characters 
+    - longest susbtring with at most two distinct characters 
+    - longest substring with at most k distinct characters 
+    - subarray with k different integers 
+    - maximum erasure value 
+    - number of equal count substrings
+    - minimum number of consecutive cards to pick up 
+    - longest nice subarray 
+    - optimal partition of string 
+    - count complete subarrays in an array 
+    - find longest special substring that occurs thrice II 
+    - find longest special subtring that occurs thrice I 
+
+- substring with concatenation of all words 
+    - minimum window substring 
+
+- minimum window substring 
+    - sliding window maximum 
+    - permutation in string 
+    - smallest range covering elements from k lists 
+    - minimum window subsequence
+    - count substrings that can be rearranged to contain a string II 
+    - count substrings than can be rearranged to contain a string I 
+
+- valid sudoku
+    - sudoku solver
+    - check if every row and column contains all numbers
+
+- spiral matrix 
+    - spiral matrix II 
+    - spiral matrix III 
+    - spiral matrix IV 
+
+- rotate image
+    - determine whether matrix can be obtained by rotation
+
+- set matrix zeroes 
+    - game of life 
+    - number of laser beams in a bank
+    - minimum operations to remove adjacent ones in matrix
+    - remove all ones with row and column flips II 
+
+- game of life 
+
+- ransom note
+    - stickers to spell word 
+    - find words that can be formed by characters
+
+- isomorphic strings 
+    - word pattern 
+    - find and replace pattern 
+
+- word pattern 
+    - word pattern II 
+
+- valid anagram 
+    - group anagrams 
+    - palindrome permutation 
+    - find all anagrams in a string 
+    - find resultant array after removing anagrams 
+
+- group anagrams 
+    - group shifted strings 
+    - count anagrams
+
+- two sum 
+    - two sum II - data structure design 
+    - subarray sum equals k 
+    - max number of k-sum pairs 
+    - count good meals 
+    - count number of pairs with absolute difference k 
+    - number of pairs of strings with concatenation equal to target
+    - find all k-distant indices in an array 
+    - first letter to appear twice 
+    - number of excellent pairs 
+    - node with highest edge score 
+    - check distances between same letters 
+    - find subarrays with equal sum 
+    - largest positive integer that exists with its negative 
+    - number of distinct averages 
+    - count pairs whose sum is less than target 
+
+- happy number 
+    - linked list cycle 
+    - add digits 
+    - ugly number 
+    - sum of digits of string after convert 
+    - minimum addition to make integer beautiful 
+    - smallest value after replacing with sum of prime factors 
+    - count the digits that divide a number 
+
+- contains duplicate II 
+    - contains duplicate 
+    - contains duplicate III 
+
+- longest consecutive sequence 
+    - binary tree longest consecutive sequence 
+    - find three consecutive integers that sum to a given number 
+    - maximum consecutive floors wihtout special floors 
+    - length of the longest alphabetical continuous substring 
+    - find the maximum number of elements in subset
+
+- summary ranges 
+    - missing ranges 
+    - data stream as disjoint intervals 
+    - find maximal uncovered ranges
+
+- merge intervals 
+    - insert interval 
+    - meeting rooms 
+    - meeting rooms II 
+    - teemo attacking 
+    - add bold tag in string 
+    - range module 
+    - employee free time 
+    - partition labels 
+    - interval list intersections 
+    - amount of new area painted each day 
+    - longest substring of one repeating character 
+    - count integers in intervals 
+    - divide intervals into minimum number of groups 
+    - determine if two events have conflict 
+    - count ways to group overlapping ranges 
+    - points that intersect with cars
+    - count days without meetings 
+
+- insert interval 
+
+- minimum number of arrows to burst baloons 
+    - non-overlapping intervals
+
+- valid parentheses
+    - generate parentheses 
+    - longest valid parentheses 
+    - remove invalid parentheses 
+    - check if word is valid after substitutions
+    - check if a parentheses string can be valid 
+    - move pieces to obtain a string 
+
+- simplify path 
+
+- min stack 
+    - sliding window maximum 
+    - max stack 
+
+- evaluate reverse polish notation 
+    - basic calculator 
+    - expression add operators
+
+- basic calculator 
+    - basic calculator II 
+    - different ways to add parentheses 
+    - expression add operators 
+    - basic calculator III 
+    - the score of students solving math expression 
+    - minimize result by adding parentheses to expression 
+
+- linked list cycle 
+    - linked list cycle II 
+    - happy number 
+
+- add two numbers 
+    - multiply strings 
+    - add binary 
+    - sum of two integers 
+    - add strings 
+    - add two numbers II 
+    - add to array-form of integer 
+    - add two polynomials represented as linked lists 
+    - double a number represented as a linked list 
+
+- merge two sorted lists 
+    - merge k sorted lists 
+    - merge sorted array 
+    - sort list 
+    - shortest word distance II 
+    - add two polynomials represented as linked lists 
+    - longest common subsequence between sorted arrays 
+    - merge two 2D arrays by summing values 
+
+- copy list with random pointer 
+    - clone graph 
+    - clone binary tree with random pointer 
+    - clone n-ary tree 
+
+- reverse linked list II 
+
+- reverse nodes in k-group 
+    - swap nodes in pairs 
+    - swapping nodes in a linked list 
+    - reverse nodes in even length groups 
+
+- remove nth node from end of list 
+    - delete n nodes after m nodes of a linked list 
+    - delete the middle node of a linked list
+
+- remove duplicates from sorted list II 
+    - remove duplicates from sorted list 
+    - remove duplicates from an unsorted linked list 
+
+- rotate list 
+    - rotate array
+    - split linked list in parts 
+
+- partition list 
+    - partition array according to given pivot 
+
+- LRU Cache 
+    - LFU Cache 
+    - design in-memory file system 
+    - design most recently used queue
+
+- maximum depth binary tree 
+    - balanced bianry tree 
+    - minimum depth of binary tree 
+    - maximum depth of n-ary tree 
+    - time needed to inform all employees 
+    - amount of time for binary tree to be infected 
+    - height of binary tree after subtree removal queries 
+
+- same tree 
+
+- inverty binary tree 
+    - reverse odd levels of binary tree 
+
+- symmetric tree 
+
+- construct binary tree from preorder and inorder traversal 
+
+- construct binary tree from inorder and postorder traversal 
+
+- populating next right pointers in each node II 
+    - populating next right pointers in each node 
+
+- flatten binary tree to linked list 
+    - flatten a multilevel doubly linked list 
+    - correct a binary tree 
+
+- path sum 
+    - path sum II 
+    - binary tree maximum path sum 
+    - sum root to leaf numbers 
+    - path sum III
+    - path sum IV 
+
+- sum root to leaf numbers 
+    - smallest string starting from leaf 
+
+- binary tree maximum path sum 
+    -  longest univalue path 
+    - time needed to inform all employees 
+    - difference between maximum and minimum price sum 
+
+- binary search tree iterator 
+    - binary tree inorder traversal 
+    - flatten 2d vector 
+    - peeking iterator 
+    - inorder successor in BST 
+    - binary search tree iterator II 
+
+- count complete tree nodes 
+    - closest binary search tree value 
+
+- lowest common ancestor of a binary tree 
+    - lowest common ancestor of a binary search tree 
+    - smallest common region 
+    - find players with zero or one losses 
+    - lowest common acestor of a binary tree II 
+    - lowest common ancestor of a binary tree III 
+    - lowest common ancestor of a binary tree IV 
+    - step-by-step directions from a binary tree node to another 
+    - cycle length queries in a tree 
+
+- binray tree right side view 
+    - boundary of binary tree 
+
+- average of levels in binary tree 
+    - binary tree level order traversal 
+    - binary tree level order traversal II
+
+- binary tree level order traversal 
+    - binary tree zigzag level order traversal 
+    - binary tree level order traversal II 
+    - minimum depth of binary tree 
+    - binary tree vertical order traversal 
+    - average of levels in binary tree 
+    - n-ary tree level order traversal 
+    - cousins in binary tree 
+    - minimum number of operations to sort a binary tree by level 
+    - divide nodes into the maximum number of groups 
+
+- binary tree zigzag level order traversal 
+
+- minimum absolute difference in BST 
+    - k-diff pairs in an array 
+
+- kth smallest element in a bst 
+    - second minimum node in a binary tree 
+
+- validate binary search tree 
+    - binary tree inorder traversal 
+    - find mode in binary search tree 
+
+- number of islands 
+    - surrounded regions 
+    - walls and gates 
+    - number of islands II 
+    - number of connected components in an undirected graph 
+    - battleships in a board 
+    - number of distinct islands 
+    - max area of island 
+    - count sub islands 
+    - find all groups of farmland 
+    - count unreachable pairs of nodes in an undirected graph 
+    - maximum numnber of fish in a grid 
+
+- surrounded regions 
+
+- clone graph 
+    - clone binary tree with random pointer 
+
+- evaluate division 
+    - check for contradictions in equations 
+
+- course schedule
+    - course schedule II 
+    - graph valid tree 
+    - minimum height trees 
+    - course schedule III 
+    - build a matrix with conditions 
+
+- course schedule II 
+    - sequence reconstruction 
+    - parallel courses 
+    - find all possible recipes from given supplies 
+    - sort array by moving items to empty space 
+
+- snakes and ladders 
+    - most profitable path in a tree 
+
+- minimum genetic mutation 
+    - word ladder 
+
+- word ladder 
+    - word ladder II 
+    - words within two edits of dictionary 
+
+- implement trie (prefix tree)
+    - design add and search words data structure 
+    - design search autocomplete system 
+    - replace words 
+    - implement magic dictionary 
+    - encrypt and decrypt strings 
+    - implement trie II (prefix tree)
+    - count prefix and suffix pairs II 
+    - count prefix and suffix pairs I 
+
+- degin add and search words data structure 
+    - prefix and suffix search 
+    - match substring after replacement 
+    - sum of prefix scores of strings 
+
+- word search II 
+    - unique paths III 
+
+- letter combinations of a phone number 
+    - generate parentheses 
+    - combination sum 
+    - binary watch 
+    - count number of texts 
+    - minimum number of pushes to type word I 
+    - minimum number of pushes to type word II 
+
+- combinations 
+    - combination sum 
+    - permutations 
+
+- permuations 
+    - next permutation 
+    - permutations II 
+    - permutation sequence 
+
+- combination sum 
+    - combination sum II 
+    - combination sum III 
+    - factor combinations 
+    - combination sum IV 
+    - the number of ways to make the sum  
+
+- N-Queens II 
+    - N-Queens 
+    - Grid Illumination
+
+- generate parentheses 
+    - check if a parentheses string can be valid 
+
+- word search
+
+- convert sorted array to binary search tree 
+    - convert sorted list to binary search tree 
+
+- sort list 
+    - merge two sorted lists 
+    - sort colors 
+    - insertion sort list 
+    - sort linked list already sorted using absolute values 
+
+- construct quad tree 
+
+- merge k sorted lists 
+    - ugly number II 
+    - smallest subarrays with maximum bitwise OR 
+
+- maximum subarray 
+    - degree of an array 
+    - longest turbulent subarray 
+    - maximum score of spliced array 
+    - maximum absolute sum of any subarray 
+    - maximum subarray sum after one operation 
+    - substring with largest variance 
+    - count subarrays with score less than k 
+    - maximum value of a string in an array 
+    - find the substring with maximum cost 
+    - k items with the maximum sum 
+    - maximum good subarray sum 
+
+- maximum sum circular subarray 
+
+- search insert position
+    - first bad version 
+    - minimum operations to exceed threshold value I 
+
+- search a 2d matrix 
+    - search a 2d matrix II 
+    - split message based on limit 
+
+- find peak element 
+    - peak index in a mountain array 
+    - find a peak element II 
+    - pour water between buckets to make water levels equal 
+    - count hills and vlaues in an array 
+    - find the peaks 
+
+- search in rotated sorted array 
+    - search in rotated sorted array II 
+    - find minimum in rotated sorted array 
+
+- find first and last position of element in sorted array 
+    - first bad version 
+    - plates between candles 
+    - find target indices after sorting array 
+
+- find minimum in rotated sorted array 
+    - find minimum in rotated sorted array II 
+
+- median of two sorted arrays 
+    - median of a row wise sorted matrix 
+
+- kth largest element in an array 
+    - wiggle sort II 
+    - top K frequent elements 
+    - third maximum number 
+    - kth largest element in a stream 
+    - k closest points to origin 
+    - find the kth largest integer in the array 
+    - find the subsequence of length k with the largest sum 
+    - k highest randked items within a price range 
+
+- IPO 
+    - maximum subsequence score 
+    - maximum elegance of a k-length subsequence 
+
+- find k pairs with smallest sums 
+    - kth smallest element in a sorted matrix 
+    - find k-th smallest pair distance 
+    - kth smallest product of two sorted arrays 
+
+- find median from data stream 
+    - sliding window median 
+    - finding MK average 
+    - sequentially ordinal rank tracker 
+    - minimum operations to make median of array equal to k 
+
+- add binary 
+    - add two numbers 
+    - multiply strings
+    - plus one 
+    - add to array-form of integer 
+
+- reverse bits 
+    - reverse integer 
+    - number of 1 bits 
+    - a number after a double reversal 
+
+- number of 1 bits 
+    - power of two 
+    - counting bits 
+    - binary watch 
+    - hamming distance 
+    - binary number with alternating bits 
+    - prime number of set bits in binary representation 
+    - convert date to binary 
+
+- single number 
+    - single number II 
+    - single number III 
+    - missing number 
+    - find the duplicate number 
+    - find the difference 
+    - find the XOR of numbers which appear twice 
+
+- single number II 
+
+- bitwise AND of numbers range 
+    - longest nice subarray 
+
+- palindrome number 
+    - palindrome linked list 
+    - find palindrome with fixed length 
+    - strictly palindromic number 
+    - count symmetric integers 
+    - find the count of good integers 
+    - find the largest palindrome divisible by K 
+
+- plus one 
+    - multiply strings 
+    - add binary 
+    - plus one linked list 
+    - add to array-form of integer 
+    - minimum operations to reduce an integer to 0
+
+- factorial trailing zeroes 
+    - number of digit one 
+    - preimage size of factorial zeroes function 
+    - abbreviating the product of a range 
+    - maximum trailing zeros in a cornered path 
+
+- sqrt(x) 
+    - pow(x, n)
+    - valid perfect square 
+
+- pow(x, n)
+    - super pow 
+    - count collisions of monkeys on a polygon
+
+- max points on a line 
+    - line reflection 
+    - minimum number of lines to cover points 
+    - minimum lines to represent a line chart 
+
+- climbing stairs 
+    - min cost climbing stairs 
+    - fibonacci number 
+    - n-th tribonacci number 
+    - minimum rounds to complete all tasks
+    - count number of ways to place houses 
+    - number of ways to reach a position after exactly k steps
+    - count ways to build good strings 
+    - frog jump II 
+    - find number of ways to reach the k-th stair 
+    - the number of ways to make the sum 
+
+- house robber 
+    - maximum product subarray 
+    - house robber II 
+    - paint house 
+    - paint fence 
+    - house robber III 
+    - non-negative integers without concecutive ones 
+    - coin path 
+    - delete and earn 
+    - solving questions with brainpower
+    - count number of ways to place houses 
+    - house robber IV 
+    - mice and cheese 
+    - largest element in an array after merge operations
+
+- word break 
+    - word break II 
+    - extra characters in a string 
+    - concatenated words 
+
+- coin change 
+    - minimum cost for tickets 
+    - maximum value of k coins from piles 
+    - minimum number of operations to convert time 
+    - minimum cost to split an array 
+    - count of sub-multisets with bounded sum 
+    - length of the longest subsequence that sums to target 
+    - minimum number of coins to be added 
+    - most expensive item that can not be bought 
+
+- longest increasing subsequence 
+    - increasing triplet subsequence 
+    - russian doll envelopes 
+    - maximum length of pair chain 
+    - number of longest increasing subsequence 
+    - minimum ascii delete sum for two strings 
+    - minimum number of removals to make mountain array 
+    - find the longest valid obstacle course at each position 
+    - minimum operations to make the array k-increasing 
+    - longest ideal subsequence
+    - maximum number of books you can take 
+    - longest increasing subsequence II 
+    - find the maximum length of a good subsequence II 
+    - find the maximum length of a good subsequence I 
+    - find the maximum length of valid subsequence I 
+    - find the maximum length of valid subsequence II 
+
+- triangle 
+
+- minimum path sum 
+    - unique paths 
+    - dungeon game 
+    - cherry pickup 
+    - minimum path cost in a grid 
+    - maximum number of points with cost 
+    - minimum cost homecoming of a robot in a grid 
+    - paths in matrix whose sum is divisible by k 
+    - check if there is a path with equal number of 0's and 1's 
+    - minimum cost of a path with special roads
+
+- unique paths II 
+    - unique paths III 
+
+- longest palindromic susbtring 
+    - shortest palindrome
+    - palindrome permutation 
+    - palindorme pairs 
+    - longest palindromic subsequence 
+    - palindromic substrings 
+    - maximum number of non-overlapping palindrome susbtrings 
+
+- interleaving string 
+
+- edit distance 
+    - one edit distance 
+    - delete operation for two strings
+    - uncrossed lines 
+    - minimum white tiles after covering with carpets
+
+- best time to buy and sell stock III 
+    - best time to buy and sell stock IV
+    - maximum sum of 3 non-overlapping subarrays 
+    - maximum profit from trading stocks 
+    - maximize win from two segments 
+
+- best time to buy and sell stock IV 
+
+- maximal square 
+    - maximal rectangle 
+    - largest plus sign 
+    - count artifacts that can be extracted 
+    - stamping the grid 
+    - maximize area of square hole in grid 
+
+
+
+
+
+
+

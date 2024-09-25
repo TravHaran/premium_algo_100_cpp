@@ -77,6 +77,7 @@
 - [x] 1197. Minimum Knight Moves
 - [x] 286. Walls and Gates
 - [x] 317. Shortest Distance from All Buildings
+- [x] 269. Alien Dictionary
 ### heap
 - [x] 1086. High Five
 - [x] 1167. Minimum Cost to Connect Sticks
@@ -121,6 +122,8 @@
 - [x] 1200. Minimum Absolute Difference
 - [x] 3131. Find the Integer Added to Array I
 - [x] 1161. Maximum Level Sum of a Binary Tree
+- [x] 83. Remove Duplicates from Sorted List
+- [x] 1836. Remove Duplicates From an Unsorted Linked List
 
 
 

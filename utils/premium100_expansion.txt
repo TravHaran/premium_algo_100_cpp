@@ -1,0 +1,325 @@
+Leetcode Premium 100 Expansion
+
+- maximum distance in arrays 
+
+- wiggle sort 
+    - sort colors 
+    - wiggle sort II 
+    - array with elements not equal to average of neighbors 
+
+- confusing number 
+    - strobogrammatic number 
+    - confusing number II 
+
+- perform string shifts 
+
+- one edit distance 
+    - edit distance 
+
+- reverse words in a string II 
+    - reverse words in a string 
+    - rotate array 
+
+- shortest way to form string 
+    - is subsequence 
+    - number of matching subsequences 
+
+- longest substring with at most two distinct characters 
+    - longest susbtring without repeating characters 
+    - sliding window maximum 
+    - longest substring with at most k distinct characters 
+    - subarrays with k different integers 
+
+- longest substring with at most k distinct characters 
+    - longest repeating character replacement 
+    - subarrays with k different integers 
+    - max consecutive ones III 
+    - maximize the confusion of an exam 
+
+- max consecutive ones II 
+    - max consecutive ones 
+    - all divisions with the highest score of a binary array 
+
+- find k-length substrings with no repreated characters 
+
+- find anagram mappings 
+
+- palindrome permutation 
+    - longest palindromic substring 
+    - valid anagram 
+    - palindrome permutation II 
+    - longest palindrome 
+
+- sentence similarity 
+    - number of provinces 
+    - accounts merge 
+    - sentence similarity II 
+
+- single row keyboard 
+
+- group shifted strings 
+    - group anagrams 
+    - find maximum number of string pairs 
+
+- largest unique number 
+
+- counting elements
+
+- find smallest common element in all rows 
+    - intersection of multiple arrays 
+
+- valid word square 
+    - word squares 
+    - toeplitz matrix 
+
+- lonley pixel I 
+    - lonley pixel II 
+
+- sparse matrix mulitplication 
+
+- candy crush 
+
+- missing ranges 
+    - summary ranges 
+    - find maximal uncovered ranges 
+
+- meeting rooms 
+    - merge intervals 
+    - meeting rooms II 
+    - meeting rooms III 
+    - points that intersect with cars 
+
+- meeting rooms II 
+    - minimum number of arrows to burst balloons 
+    - car pooling 
+    - number of flowers in full bloom 
+    - total cost to hire k workers 
+
+- add bold tag in string 
+    - tag validator 
+
+- remove interval 
+
+- ternary expression parser 
+    - mini parser 
+    - remove comments 
+    - parse lisp expression 
+
+- find permutation 
+    - using a robot to print the lexicographically smallest string 
+
+- basic calculator III 
+    - basic calculator 
+    - basic calculator II 
+    - basic calculator IV 
+    - build binary expression tree from infix expression 
+
+- moving average from data stream 
+    - k radius subarray averages 
+
+- first unique number 
+
+- delete n nodes after m nodes of a linked list 
+    - remove nth node from end of list 
+    - remove zero sum consecutive nodes from linked list 
+
+- insert into a sorted circular linked list 
+    - insertion sort list 
+
+- plus one linked list 
+    - plus one 
+    - double a number represented as a linked list 
+
+- print immutable linked list in reverse 
+
+- binary tree longest consecutive sequence 
+    - longest consecutive sequence 
+    - binary tree longest consecutive sequence II 
+    - check if an array is consecutive 
+
+- binary tree longest consecutive sequence II 
+
+- count univalue subtrees 
+    - subtree of another tree 
+    - longest univalue path 
+
+- maximum average subtree 
+    - count nodes equal to sum of descendants 
+    - count nodes equal to average of subtree 
+
+- boundary of binary tree 
+    - binary tree right side view 
+
+- find leaves of binary tree 
+
+- binary tree vertical over traversal 
+    - binary tree level order traversal 
+
+- closest bianry search tree value 
+    - count complete tree nodes 
+    - search in binary search tree 
+    - closest nodes queries in a binary search tree 
+
+- closest bianry search tree value II 
+
+- verify preorder sequence in binary search tree 
+    - binary tree preorder traversal 
+
+- two sum bsts 
+    - two sum IV - input is a bst 
+
+- largest bst subtree 
+
+- clone n-ary tree 
+
+- find root of n-ary tree 
+    - move sub-tree of n-ary tree 
+
+- diameter of n-ary tree 
+    - diamter of binary tree 
+
+- find the celebrity 
+    - find the town judge 
+
+- kill process 
+
+- number of connected components in an undirected graph 
+    - graph valid tree 
+    - paths in maze that lead to same room 
+    - count the number of complete components 
+
+- all paths from source lead to destination 
+
+- web crawler 
+    - web crawler multithreaded
+
+- number of islands II 
+    - process restricted friend requests 
+
+- number of distinct islands 
+    - number of distinct islands II 
+    - count sub islands 
+
+- parallel courses 
+    - parallel courses II 
+    - parallel courses III 
+
+- the maze 
+
+- the maze II 
+
+- the maze III 
+
+- minimum knight moves 
+    - check knight tour configuration 
+
+- walls and gates 
+    - battleships in a board
+    - robot room cleaner 
+    - rotting oranges 
+    - count the number of houses at a certain distance I
+    - count the number of houses at a certain distance II 
+
+- shortest distance from all buildings 
+    - best meeting point 
+    - as far from land as possible 
+
+- alien dictionary 
+
+- desgin in-memory file system 
+    - design log storage system 
+
+- design search autocomplete system 
+
+- high five 
+    - determine winner of a bowling game 
+
+- minimum cost to connect sticks 
+    - minimum cost to merge stones 
+
+- campus bikes 
+    - campus bikes II 
+
+- rearrange sting k distance apart 
+    - task scheduler 
+    - reorganize string 
+    - construct string with repeat limit 
+
+- missing number in arithmetic progression 
+
+- missing element in sorted array 
+
+- find the index of the large integer 
+    - search in sorted array of unkown size 
+
+- check if a number is majority element in  asorted array 
+    - majority element 
+    - majority element II 
+
+- divide chocolate 
+    - split array largest sum 
+    - capacity to ship packages within D days 
+
+- maximum average subarray II 
+    - maximum average subarray I 
+
+- design tic-tac-toe 
+    - valid tic-tac-toe state 
+
+- design snake game 
+
+- compressed string iterator 
+    - string compression 
+
+- encode and decode strings 
+    - count and say 
+    - serialize and deserialize binary tree 
+    - count binary substrings 
+
+- zigzag iterator 
+    - binary search tree iterator 
+    - flatten 2D vector 
+    - peeking iterator 
+    - flatten nest list iterator 
+    - merge strings alternatively 
+
+- max stack 
+    - min stack 
+
+- design a leaderboard 
+
+- serialze and deserialize n-ary tree 
+    - serialize and deserialize bst 
+
+- encode n-ary tree to binary tree 
+
+- strobogrammatic number II 
+    - strobogrammatic number III 
+    - sum of k-mirror numbers 
+
+- factor combinations 
+    - combination sum 
+
+- brace expansion 
+    - decode string 
+    - letter case permutation 
+    - brace expansion II 
+
+- paint fence 
+
+- paint house 
+
+- paint house II 
+
+- 4 keys keyboard
+    - 2 keys keyboard
+
+- handshakes that don't cross 
+
+- armstrong number 
+
+- count substrings with only one distinct letter 
+
+- guess the majority in a hidden array 
+
+- maximum number of ones 

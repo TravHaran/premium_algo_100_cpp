@@ -1,0 +1,487 @@
+# leetcode expansion
+- [ ]  longest univalue path
+- [ ] 2 keys keyboard
+- [ ] 3 sum closest
+- [ ] 3 sum smaller
+- [ ] 4 sum
+- [ ] Grid Illumination
+- [ ] LFU Cache
+- [ ] N-Queens
+- [ ] a number after a double reversal
+- [ ] abbreviating the product of a range
+- [ ] accounts merge
+- [ ] add digits
+- [ ] add strings
+- [ ] add to array-form of integer
+- [ ] add two numbers II
+- [ ] add two polynomials represented as linked lists
+- [ ] all divisions with the highest score of a binary array
+- [ ] amount of new area painted each day
+- [ ] amount of time for binary tree to be infected
+- [ ] append characters to string to make subsequence
+- [ ] apply operations to an array
+- [ ] array with elements not equal to average of neighbors
+- [ ] as far from land as possible
+- [ ] balanced bianry tree
+- [ ] basic calculator II
+- [ ] basic calculator IV
+- [ ] battleships in a board
+- [ ] best meeting point
+- [ ] best time to buy and sell stock with cooldown
+- [ ] best time to buy and sell stock with transaction fee
+- [ ] binary number with alternating bits
+- [ ] binary search tree iterator II
+- [ ] binary tree inorder traversal
+- [ ] binary tree level order traversal II
+- [ ] binary tree preorder traversal
+- [ ] binary tree right side view
+- [ ] binary tree vertical order traversal
+- [ ] binary watch
+- [ ] brace expansion II
+- [ ] build a matrix with conditions
+- [ ] build binary expression tree from infix expression
+- [ ] campus bikes II
+- [ ] capacity to ship packages within D days
+- [ ] car pooling
+- [ ] check distances between same letters
+- [ ] check for contradictions in equations
+- [ ] check if a number is majority element in a sorted array
+- [ ] check if a parentheses string can be valid
+- [ ] check if an array is consecutive
+- [ ] check if every row and column contains all numbers
+- [ ] check if grid satisfies conditions
+- [ ] check if there is a path with equal number of 0's and 1's
+- [ ] check if word is valid after substitutions
+- [ ] check knight tour configuration
+- [ ] cherry pickup
+- [ ] clone binary tree with random pointer
+- [ ] closest binary search tree value
+- [ ] closest nodes queries in a binary search tree
+- [ ] coin path
+- [ ] combination sum II
+- [ ] combination sum III
+- [ ] combination sum IV
+- [ ] concatenated words
+- [ ] confusing number II
+- [ ] construct product matrix
+- [ ] construct string with repeat limit
+- [ ] contains duplicate
+- [ ] contains duplicate III
+- [ ] convert date to binary
+- [ ] convert sorted list to binary search tree
+- [ ] correct a binary tree
+- [ ] count anagrams
+- [ ] count and say
+- [ ] count artifacts that can be extracted
+- [ ] count binary substrings
+- [ ] count collisions of monkeys on a polygon
+- [ ] count complete subarrays in an array
+- [ ] count days without meetings
+- [ ] count good meals
+- [ ] count hills and vlaues in an array
+- [ ] count integers in intervals
+- [ ] count nodes equal to average of subtree
+- [ ] count nodes equal to sum of descendants
+- [ ] count number of pairs with absolute difference k
+- [ ] count number of texts
+- [ ] count number of ways to place houses
+- [ ] count of sub-multisets with bounded sum
+- [ ] count pairs whose sum is less than target
+- [ ] count prefix and suffix pairs I
+- [ ] count prefix and suffix pairs II
+- [ ] count sub islands
+- [ ] count subarrays with score less than k
+- [ ] count substrings than can be rearranged to contain a string I
+- [ ] count substrings that can be rearranged to contain a string II
+- [ ] count symmetric integers
+- [ ] count the digits that divide a number
+- [ ] count the number of complete components
+- [ ] count the number of houses at a certain distance I
+- [ ] count the number of houses at a certain distance II
+- [ ] count unreachable pairs of nodes in an undirected graph
+- [ ] count ways to build good strings
+- [ ] count ways to group overlapping ranges
+- [ ] counting bits
+- [ ] course schedule III
+- [ ] cousins in binary tree
+- [ ] cycle length queries in a tree
+- [ ] data stream as disjoint intervals
+- [ ] decode string
+- [ ] degree of an array
+- [ ] delete and earn
+- [ ] delete operation for two strings
+- [ ] delete the middle node of a linked list
+- [ ] design add and search words data structure
+- [ ] design in-memory file system
+- [ ] design log storage system
+- [ ] design most recently used queue
+- [ ] determine if two events have conflict
+- [ ] determine whether matrix can be obtained by rotation
+- [ ] determine winner of a bowling game
+- [ ] diamter of binary tree
+- [ ] difference between maximum and minimum price sum
+- [ ] different ways to add parentheses
+- [ ] divide a string into groups of size k
+- [ ] divide intervals into minimum number of groups
+- [ ] divide nodes into the maximum number of groups
+- [ ] double a number represented as a linked list
+- [ ] dungeon game
+- [ ] employee free time
+- [ ] encrypt and decrypt strings
+- [ ] expression add operators
+- [ ] extra characters in a string
+- [ ] fibonacci number
+- [ ] find a peak element II
+- [ ] find all anagrams in a string
+- [ ] find all groups of farmland
+- [ ] find all k-distant indices in an array
+- [ ] find all possible recipes from given supplies
+- [ ] find and replace pattern
+- [ ] find first palindromic string in the array
+- [ ] find k-th smallest pair distance
+- [ ] find longest special substring that occurs thrice II
+- [ ] find longest special subtring that occurs thrice I
+- [ ] find maximal uncovered ranges
+- [ ] find maximum number of string pairs
+- [ ] find minimum in rotated sorted array II
+- [ ] find mode in binary search tree
+- [ ] find number of ways to reach the k-th stair
+- [ ] find palindrome with fixed length
+- [ ] find players with zero or one losses
+- [ ] find resultant array after removing anagrams
+- [ ] find subarrays with equal sum
+- [ ] find target indices after sorting array
+- [ ] find the XOR of numbers which appear twice
+- [ ] find the count of good integers
+- [ ] find the difference
+- [ ] find the duplicate number
+- [ ] find the kth largest integer in the array
+- [ ] find the largest palindrome divisible by K
+- [ ] find the length of the longest common prefix
+- [ ] find the longest valid obstacle course at each position
+- [ ] find the maximum length of a good subsequence I
+- [ ] find the maximum length of a good subsequence II
+- [ ] find the maximum length of valid subsequence I
+- [ ] find the maximum length of valid subsequence II
+- [ ] find the maximum number of elements in subset
+- [ ] find the peaks
+- [ ] find the subsequence of length k with the largest sum
+- [ ] find the substring with maximum cost
+- [ ] find the town judge
+- [ ] find three consecutive integers that sum to a given number
+- [ ] find words that can be formed by characters
+- [ ] finding MK average
+- [ ] first bad version
+- [ ] first letter to appear twice
+- [ ] flatten 2D vector
+- [ ] flatten 2d vector
+- [ ] flatten a multilevel doubly linked list
+- [ ] flatten nest list iterator
+- [ ] frog jump II
+- [ ] graph valid tree
+- [ ] h-index II
+- [ ] hamming distance
+- [ ] height of binary tree after subtree removal queries
+- [ ] house robber II
+- [ ] house robber III
+- [ ] house robber IV
+- [ ] implement magic dictionary
+- [ ] implement trie II (prefix tree)
+- [ ] increasing triplet subsequence
+- [ ] inorder successor in BST
+- [ ] insert delete getrandom O(1) - duplicates allowed
+- [ ] insertion sort list
+- [ ] integer to english words
+- [ ] intersection of multiple arrays
+- [ ] interval list intersections
+- [ ] jump game III
+- [ ] jump game VII
+- [ ] jump game VIII
+- [ ] k closest points to origin
+- [ ] k highest randked items within a price range
+- [ ] k items with the maximum sum
+- [ ] k radius subarray averages
+- [ ] k-diff pairs in an array
+- [ ] kth largest element in a stream
+- [ ] kth smallest element in a sorted matrix
+- [ ] kth smallest product of two sorted arrays
+- [ ] largest element in an array after merge operations
+- [ ] largest plus sign
+- [ ] largest positive integer that exists with its negative
+- [ ] length of the longest alphabetical continuous substring
+- [ ] length of the longest subsequence that sums to target
+- [ ] letter case permutation
+- [ ] line reflection
+- [ ] linked list cycle II
+- [ ] longest common subsequence between sorted arrays
+- [ ] longest common suffix queries
+- [ ] longest ideal subsequence
+- [ ] longest increasing subsequence II
+- [ ] longest nice subarray
+- [ ] longest palindrome
+- [ ] longest palindromic subsequence
+- [ ] longest palindromic substring
+- [ ] longest repeating character replacement
+- [ ] longest substring of one repeating character
+- [ ] longest susbtring with at most two distinct characters
+- [ ] longest susbtring without repeating characters
+- [ ] longest turbulent subarray
+- [ ] longest univalue path
+- [ ] longest valid parentheses
+- [ ] lonley pixel II
+- [ ] lowest common acestor of a binary tree II
+- [ ] lowest common ancestor of a binary search tree
+- [ ] lowest common ancestor of a binary tree III
+- [ ] lowest common ancestor of a binary tree IV
+- [ ] majority element II
+- [ ] make k-subarray sums equal
+- [ ] make string a subsequence using cyclic increments
+- [ ] match substring after replacement
+- [ ] max area of island
+- [ ] max consecutive ones
+- [ ] max consecutive ones III
+- [ ] max number of k-sum pairs
+- [ ] maximal rectangle
+- [ ] maximize area of square hole in grid
+- [ ] maximize the confusion of an exam
+- [ ] maximize the topmost element after k moves
+- [ ] maximize win from two segments
+- [ ] maximum absolute sum of any subarray
+- [ ] maximum average subarray I
+- [ ] maximum consecutive floors wihtout special floors
+- [ ] maximum depth of n-ary tree
+- [ ] maximum difference between increasing elements
+- [ ] maximum elegance of a k-length subsequence
+- [ ] maximum erasure value
+- [ ] maximum good subarray sum
+- [ ] maximum length of pair chain
+- [ ] maximum length of repeated subarray
+- [ ] maximum number of books you can take
+- [ ] maximum number of jumps to reach the last index
+- [ ] maximum number of non-overlapping palindrome susbtrings
+- [ ] maximum number of points with cost
+- [ ] maximum numnber of fish in a grid
+- [ ] maximum palindromes after operations
+- [ ] maximum product after k increments
+- [ ] maximum product of the length of two palindromic subsequences
+- [ ] maximum product subarray
+- [ ] maximum profit from trading stocks
+- [ ] maximum score of spliced array
+- [ ] maximum size subarray sum equals k
+- [ ] maximum subarray sum after one operation
+- [ ] maximum subsequence score
+- [ ] maximum sum of 3 non-overlapping subarrays
+- [ ] maximum tastiness of candy basket
+- [ ] maximum trailing zeros in a cornered path
+- [ ] maximum value of a string in an array
+- [ ] maximum value of an ordered triplet II
+- [ ] maximum value of k coins from piles
+- [ ] median of a row wise sorted matrix
+- [ ] meeting rooms III
+- [ ] merge strings alternatively
+- [ ] merge two 2D arrays by summing values
+- [ ] mice and cheese
+- [ ] min cost climbing stairs
+- [ ] mini parser
+- [ ] minimize maximum value in a grid
+- [ ] minimize result by adding parentheses to expression
+- [ ] minimum addition to make integer beautiful
+- [ ] minimum ascii delete sum for two strings
+- [ ] minimum cost for tickets
+- [ ] minimum cost homecoming of a robot in a grid
+- [ ] minimum cost of a path with special roads
+- [ ] minimum cost to merge stones
+- [ ] minimum cost to split an array
+- [ ] minimum depth of binary tree
+- [ ] minimum difference in sums after removal of elements
+- [ ] minimum height trees
+- [ ] minimum index of a valid split
+- [ ] minimum lines to represent a line chart
+- [ ] minimum number of arrows to burst balloons
+- [ ] minimum number of coins to be added
+- [ ] minimum number of consecutive cards to pick up
+- [ ] minimum number of lines to cover points
+- [ ] minimum number of operations to convert time
+- [ ] minimum number of operations to satisfy conditions
+- [ ] minimum number of operations to sort a binary tree by level
+- [ ] minimum number of pushes to type word I
+- [ ] minimum number of pushes to type word II
+- [ ] minimum number of removals to make mountain array
+- [ ] minimum number of visited cells in a grid
+- [ ] minimum operations to exceed threshold value I
+- [ ] minimum operations to make median of array equal to k
+- [ ] minimum operations to make the array k-increasing
+- [ ] minimum operations to reduce an integer to 0
+- [ ] minimum operations to reduce x to zero
+- [ ] minimum operations to remove adjacent ones in matrix
+- [ ] minimum path cost in a grid
+- [ ] minimum rounds to complete all tasks
+- [ ] minimum sum of mountain triplets I
+- [ ] minimum sum of mountain triplets II
+- [ ] minimum white tiles after covering with carpets
+- [ ] minimum window subsequence
+- [ ] missing number
+- [ ] most expensive item that can not be bought
+- [ ] most frequent even element
+- [ ] most profitable path in a tree
+- [ ] move pieces to obtain a string
+- [ ] move sub-tree of n-ary tree
+- [ ] move zeroes
+- [ ] multiply strings
+- [ ] n-ary tree level order traversal
+- [ ] n-th tribonacci number
+- [ ] next permutation
+- [ ] node with highest edge score
+- [ ] non-negative integers without concecutive ones
+- [ ] non-overlapping intervals
+- [ ] number of arithmetic triplets
+- [ ] number of digit one
+- [ ] number of distinct averages
+- [ ] number of distinct islands II
+- [ ] number of equal count substrings
+- [ ] number of excellent pairs
+- [ ] number of flowers in full bloom
+- [ ] number of laser beams in a bank
+- [ ] number of longest increasing subsequence
+- [ ] number of matching subsequences
+- [ ] number of pairs of strings with concatenation equal to target
+- [ ] number of provinces
+- [ ] number of ways to reach a position after exactly k steps
+- [ ] optimal partition of string
+- [ ] palindorme pairs
+- [ ] palindrome linked list
+- [ ] palindrome permutation II
+- [ ] palindromic substrings
+- [ ] parallel courses II
+- [ ] parallel courses III
+- [ ] parse lisp expression
+- [ ] partition array according to given pivot
+- [ ] partition labels
+- [ ] path sum II
+- [ ] path sum III
+- [ ] path sum IV
+- [ ] paths in matrix whose sum is divisible by k
+- [ ] paths in maze that lead to same room
+- [ ] peak index in a mountain array
+- [ ] peeking iterator
+- [ ] permutation in string
+- [ ] permutation sequence
+- [ ] permutations
+- [ ] permutations II
+- [ ] plates between candles
+- [ ] points that intersect with cars
+- [ ] populating next right pointers in each node
+- [ ] pour water
+- [ ] pour water between buckets to make water levels equal
+- [ ] power of two
+- [ ] prefix and suffix search
+- [ ] preimage size of factorial zeroes function
+- [ ] prime number of set bits in binary representation
+- [ ] process restricted friend requests
+- [ ] range module
+- [ ] rearrange spaces between words
+- [ ] remove all ones with row and column flips II
+- [ ] remove comments
+- [ ] remove duplicates from an unsorted linked list
+- [ ] remove duplicates from sorted list
+- [ ] remove invalid parentheses
+- [ ] remove linked list elements
+- [ ] remove zero sum consecutive nodes from linked list
+- [ ] reorganize string
+- [ ] repeated substring pattern
+- [ ] replace words
+- [ ] reverse integer
+- [ ] reverse nodes in even length groups
+- [ ] reverse odd levels of binary tree
+- [ ] robot room cleaner
+- [ ] rotting oranges
+- [ ] russian doll envelopes
+- [ ] search a 2d matrix II
+- [ ] search in binary search tree
+- [ ] search in rotated sorted array II
+- [ ] search in sorted array of unkown size
+- [ ] second minimum node in a binary tree
+- [ ] sentence similarity II
+- [ ] sequence reconstruction
+- [ ] sequentially ordinal rank tracker
+- [ ] serialize and deserialize binary tree
+- [ ] serialize and deserialize bst
+- [ ] shortest palindrome
+- [ ] shortest subarray with or at least k I
+- [ ] shortest word distance II
+- [ ] single number III
+- [ ] sliding window maximum
+- [ ] sliding window median
+- [ ] smallest common region
+- [ ] smallest missing integer greater than sequential prefix sum
+- [ ] smallest range covering elements from k lists
+- [ ] smallest string starting from leaf
+- [ ] smallest subarrays with maximum bitwise OR
+- [ ] smallest value after replacing with sum of prime factors
+- [ ] solving questions with brainpower
+- [ ] sort array by moving items to empty space
+- [ ] sort colors
+- [ ] sort linked list already sorted using absolute values
+- [ ] spiral matrix II
+- [ ] spiral matrix III
+- [ ] spiral matrix IV
+- [ ] split array largest sum
+- [ ] split linked list in parts
+- [ ] split message based on limit
+- [ ] squares of a sorted array
+- [ ] stamping the grid
+- [ ] step-by-step directions from a binary tree node to another
+- [ ] stickers to spell word
+- [ ] strictly palindromic number
+- [ ] string compression
+- [ ] strobogrammatic number
+- [ ] strobogrammatic number III
+- [ ] subarray sum equals k
+- [ ] subarray with k different integers
+- [ ] subarrays with k different integers
+- [ ] substring with largest variance
+- [ ] subtree of another tree
+- [ ] sudoku solver
+- [ ] sum of beauty in the array
+- [ ] sum of digits of string after convert
+- [ ] sum of distances
+- [ ] sum of k-mirror numbers
+- [ ] sum of prefix scores of strings
+- [ ] sum of two integers
+- [ ] super pow
+- [ ] swap nodes in pairs
+- [ ] swapping nodes in a linked list
+- [ ] tag validator
+- [ ] take k of each character from left and right
+- [ ] task scheduler
+- [ ] teemo attacking
+- [ ] the number of ways to make the sum
+- [ ] the score of students solving math expression
+- [ ] third maximum number
+- [ ] time needed to inform all employees
+- [ ] toeplitz matrix
+- [ ] top K frequent elements
+- [ ] total cost to hire k workers
+- [ ] trapping rainwater
+- [ ] trapping rainwater II
+- [ ] two sum II - data structure design
+- [ ] two sum IV - input is a bst
+- [ ] two sum less than k
+- [ ] ugly number
+- [ ] ugly number II
+- [ ] uncrossed lines
+- [ ] unique paths
+- [ ] unique paths III
+- [ ] using a robot to print the lexicographically smallest string
+- [ ] valid palindrome II
+- [ ] valid palindrome IV
+- [ ] valid perfect square
+- [ ] valid tic-tac-toe state
+- [ ] visit array positions to maximize score
+- [ ] web crawler multithreaded
+- [ ] wiggle sort II
+- [ ] word break II
+- [ ] word ladder II
+- [ ] word pattern II
+- [ ] word squares
+- [ ] words within two edits of dictionary
