@@ -1,8 +1,9 @@
 # leetcode expansion
-- [ ]  longest univalue path
-- [ ] 2 keys keyboard
-- [ ] 3 sum closest
-- [ ] 3 sum smaller
+- [x] perfect squares
+- [x]  longest univalue path
+- [x] 2 keys keyboard
+- [x] 3 sum closest
+- [x] 3 sum smaller
 - [ ] 4 sum
 - [ ] Grid Illumination
 - [ ] LFU Cache
@@ -10,8 +11,8 @@
 - [ ] a number after a double reversal
 - [ ] abbreviating the product of a range
 - [ ] accounts merge
-- [ ] add digits
-- [ ] add strings
+- [x] add digits
+- [x] add strings
 - [ ] add to array-form of integer
 - [ ] add two numbers II
 - [ ] add two polynomials represented as linked lists
@@ -22,7 +23,7 @@
 - [ ] apply operations to an array
 - [ ] array with elements not equal to average of neighbors
 - [ ] as far from land as possible
-- [ ] balanced bianry tree
+- [ ] balanced binary tree
 - [ ] basic calculator II
 - [ ] basic calculator IV
 - [ ] battleships in a board
@@ -216,6 +217,7 @@
 - [ ] longest common subsequence between sorted arrays
 - [ ] longest common suffix queries
 - [ ] longest ideal subsequence
+- [x] longest increasing subsequence
 - [ ] longest increasing subsequence II
 - [ ] longest nice subarray
 - [ ] longest palindrome
@@ -357,7 +359,7 @@
 - [ ] parse lisp expression
 - [ ] partition array according to given pivot
 - [ ] partition labels
-- [ ] path sum II
+- [x] path sum II
 - [ ] path sum III
 - [ ] path sum IV
 - [ ] paths in matrix whose sum is divisible by k
