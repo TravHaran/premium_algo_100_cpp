@@ -25,6 +25,8 @@ public:
                 l = table[s[r]];
             }
             // now theres no more duplicates so we update table and calculate max size
+            // we set it to r+1 so that after moving l
+            // the character at s[r] will not be included in the substring again
             table[s[r]] = r+1;
             maxLen = max(maxLen, (unsigned short)(r - l + 1));
         }
