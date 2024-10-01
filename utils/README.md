@@ -260,7 +260,7 @@
 - [ ] maximum length of repeated subarray
 - [ ] maximum number of books you can take
 - [ ] maximum number of jumps to reach the last index
-- [ ] maximum number of non-overlapping palindrome susbtrings
+- [x] maximum number of non-overlapping palindrome susbtrings
 - [ ] maximum number of points with cost
 - [ ] maximum numnber of fish in a grid
 - [ ] maximum palindromes after operations
