@@ -124,6 +124,7 @@
 - [x] 1161. Maximum Level Sum of a Binary Tree
 - [x] 83. Remove Duplicates from Sorted List
 - [x] 1836. Remove Duplicates From an Unsorted Linked List
+- [x] 967. Numbers With Same Consecutive Differences
 
 
 

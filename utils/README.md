@@ -196,6 +196,9 @@
 - [ ] intersection of multiple arrays
 - [ ] interval list intersections
 - [ ] jump game III
+- [ ] jump game IV
+- [ ] jump game V
+- [ ] jump game VI
 - [ ] jump game VII
 - [ ] jump game VIII
 - [ ] k closest points to origin
@@ -308,7 +311,7 @@
 - [ ] minimum number of operations to sort a binary tree by level
 - [ ] minimum number of pushes to type word I
 - [ ] minimum number of pushes to type word II
-- [ ] minimum number of removals to make mountain array
+- [x] minimum number of removals to make mountain array
 - [ ] minimum number of visited cells in a grid
 - [ ] minimum operations to exceed threshold value I
 - [ ] minimum operations to make median of array equal to k
